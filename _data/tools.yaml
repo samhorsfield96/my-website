@@ -1,0 +1,123 @@
+- title: panBART
+  subtitle: Long-context encoder-decoder for pangenomes
+  description: A long-context encoder-decoder package for pangenomes.
+  link: https://github.com/samhorsfield96/panBART
+  repo: samhorsfield96/panBART
+  tags: python, machine learning, pangenomics
+  group: featured
+
+- title: PansimNuc
+  subtitle: Nucleotide-level pangenome simulator
+  description: A nucleotide-level pangenome simulator written in Rust.
+  link: https://github.com/samhorsfield96/PansimNuc
+  repo: samhorsfield96/PansimNuc
+  tags: rust, simulation, pangenomics
+  group: featured
+
+- title: PopPUNK-mod
+  subtitle: Core and accessory genome divergence simulator
+  description: Simulates core and accessory genome divergence and calculates Hamming and Jaccard distances.
+  link: https://github.com/samhorsfield96/PopPUNK-mod
+  repo: samhorsfield96/PopPUNK-mod
+  tags: r, genomics, simulation
+  group: featured
+
+- title: ggCallaroo
+  subtitle: ggCaller and Panaroo pipeline
+  description: A Snakemake pipeline combining ggCaller and Panaroo for pangenome analysis.
+  link: https://github.com/samhorsfield96/ggCallaroo
+  repo: samhorsfield96/ggCallaroo
+  tags: python, snakemake, pangenomics
+  group: featured
+
+- title: orthosynt
+  subtitle: Synteny-based orthologue analysis
+  description: A Python script to analyse Orthofinder results and determine orthologues based on synteny.
+  link: https://github.com/samhorsfield96/orthosynt
+  repo: samhorsfield96/orthosynt
+  tags: python, orthology, genomics
+  group: featured
+
+- title: WTBcluster
+  subtitle: Large-scale protein clustering workflow
+  description: A Snakemake workflow for clustering billions of proteins.
+  link: https://github.com/samhorsfield96/WTBcluster
+  repo: samhorsfield96/WTBcluster
+  tags: python, snakemake, proteomics
+
+- title: BacCorpusWF
+  subtitle: Training data generation for Bacformer v2
+  description: Scripts for generating training datasets for Bacformer v2.
+  link: https://github.com/samhorsfield96/BacCorpusWF
+  repo: samhorsfield96/BacCorpusWF
+  tags: python, machine learning, genomics
+
+- title: pangenome_LLM
+  subtitle: Language models for pangenomics
+  description: Applying large language models to pangenome analysis.
+  link: https://github.com/samhorsfield96/pangenome_LLM
+  repo: samhorsfield96/pangenome_LLM
+  tags: python, machine learning, pangenomics
+
+- title: NFDS-sim
+  subtitle: Negative frequency-dependent selection simulator
+  description: A Rust simulator for negative frequency-dependent selection (NFDS) dynamics.
+  link: https://github.com/samhorsfield96/NFDS-sim
+  repo: samhorsfield96/NFDS-sim
+  tags: rust, simulation, population genetics
+
+- title: ExpEvoAnalyzer
+  subtitle: Experimental evolution analysis workflow
+  description: A workflow to analyse experimental evolution data.
+  link: https://github.com/samhorsfield96/ExpEvoAnalyzer
+  repo: samhorsfield96/ExpEvoAnalyzer
+  tags: python, evolution, genomics
+
+- title: locus_cutter
+  subtitle: Target sequence removal from genomes
+  description: A tool for identifying and removing target sequences from a genome.
+  link: https://github.com/samhorsfield96/locus_cutter
+  repo: samhorsfield96/locus_cutter
+  tags: python, genomics
+
+- title: ggCaller_manuscript
+  subtitle: Scripts for ggCaller manuscript
+  description: Repository of scripts used in the ggCaller manuscript.
+  link: https://github.com/samhorsfield96/ggCaller_manuscript
+  repo: samhorsfield96/ggCaller_manuscript
+  tags: python, pangenomics
+
+- title: compare_fasta
+  subtitle: Gene caller recall and precision analysis
+  description: Scripts to analyse recall and precision of gene callers.
+  link: https://github.com/samhorsfield96/compare_fasta
+  repo: samhorsfield96/compare_fasta
+  tags: python, genomics
+
+- title: unitig_coverage
+  subtitle: Unitig coverage analysis in de Bruijn graphs
+  description: Code to enable analysis of unitig coverage in a de Bruijn graph.
+  link: https://github.com/samhorsfield96/unitig_coverage
+  repo: samhorsfield96/unitig_coverage
+  tags: c++, genomics
+
+- title: PANGWES_mapping
+  subtitle: PANGWES outlier mappings
+  description: Repository for PANGWES outlier mappings.
+  link: https://github.com/samhorsfield96/PANGWES_mapping
+  repo: samhorsfield96/PANGWES_mapping
+  tags: python, gwas, genomics
+
+- title: Celebrimbor_analysis
+  subtitle: Analysis scripts for Celebrimbor
+  description: Analysis scripts for the Celebrimbor project.
+  link: https://github.com/samhorsfield96/Celebrimbor_analysis
+  repo: samhorsfield96/Celebrimbor_analysis
+  tags: python, genomics
+
+- title: graph_benchmarking
+  subtitle: Graph-based genomics benchmarking
+  description: Benchmarking scripts for graph-based genomic analyses.
+  link: https://github.com/samhorsfield96/graph_benchmarking
+  repo: samhorsfield96/graph_benchmarking
+  tags: python, genomics
