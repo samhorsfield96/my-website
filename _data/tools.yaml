@@ -1,3 +1,19 @@
+- title: ggCaller
+  subtitle: Graph-based gene caller for pangenomes
+  description: A pangenome-graph-based gene caller for bacterial genomes.
+  link: https://github.com/bacpop/ggCaller
+  repo: bacpop/ggCaller
+  tags: c++, python, pangenomics
+  group: featured
+
+- title: ggCallaroo
+  subtitle: ggCaller + Panaroo + Bakta pipeline
+  description: A Snakemake pipeline combining ggCaller, Panaroo, and Bakta for pangenome analysis.
+  link: https://github.com/samhorsfield96/ggCallaroo
+  repo: samhorsfield96/ggCallaroo
+  tags: python, snakemake, pangenomics
+  group: featured
+
 - title: panBART
   subtitle: Long-context encoder-decoder for pangenomes
   description: A long-context encoder-decoder package for pangenomes.
@@ -15,109 +31,97 @@
   group: featured
 
 - title: PopPUNK-mod
-  subtitle: Core and accessory genome divergence simulator
-  description: Simulates core and accessory genome divergence and calculates Hamming and Jaccard distances.
+  subtitle: Fitting models of pangenome evolution in bacteria
+  description: Scalable models of pangenome evolution in bacteria, fitting to PopPUNK data using Approximate Bayesian Computation.
   link: https://github.com/samhorsfield96/PopPUNK-mod
   repo: samhorsfield96/PopPUNK-mod
-  tags: r, genomics, simulation
+  tags: python, pangenomics, modelling, simulation
   group: featured
 
-- title: ggCallaroo
-  subtitle: ggCaller and Panaroo pipeline
-  description: A Snakemake pipeline combining ggCaller and Panaroo for pangenome analysis.
-  link: https://github.com/samhorsfield96/ggCallaroo
-  repo: samhorsfield96/ggCallaroo
-  tags: python, snakemake, pangenomics
+- title: Pansim
+  subtitle: Bacterial pangenome simulator
+  description: A pangenome simulator for bacterial gene presence/absence.
+  link: https://github.com/bacpop/Pansim
+  repo: bacpop/Pansim
+  tags: rust, simulation, pangenomics
   group: featured
+
+- title: CELEBRIMBOR
+  subtitle: Pangenomes from metagenomes
+  description: A tool for pangenome analysis from metagenome assembled genomes (MAGs).
+  link: https://github.com/bacpop/CELEBRIMBOR
+  repo: bacpop/CELEBRIMBOR
+  tags: snakemake, pangenomics, metagenomics
+  group: featured
+
+- title: GNASTy
+  subtitle: Graph-based Nanopore Adaptive Sampling Typing
+  description: A pangenome graph-based tool for adaptive sampling in nanopore sequencing.
+  link: https://github.com/bacpop/readfish/tree/GraphAlignment/v0.0.3
+  repo: bacpop/readfish
+  tags: python, nanopore, adaptive sampling
+  group: featured
+
+- title: ExpEvoAnalyzer
+  subtitle: Experimental evolution analysis workflow
+  description: A workflow to analyse experimental evolution data using read alignment, variant calling and annotation.
+  link: https://github.com/samhorsfield96/ExpEvoAnalyzer
+  repo: samhorsfield96/ExpEvoAnalyzer
+  tags: snakemake,python, experimental evolution, genomics
 
 - title: orthosynt
   subtitle: Synteny-based orthologue analysis
   description: A Python script to analyse Orthofinder results and determine orthologues based on synteny.
   link: https://github.com/samhorsfield96/orthosynt
   repo: samhorsfield96/orthosynt
-  tags: python, orthology, genomics
-  group: featured
+  tags: python, clustering
 
 - title: WTBcluster
   subtitle: Large-scale protein clustering workflow
   description: A Snakemake workflow for clustering billions of proteins.
   link: https://github.com/samhorsfield96/WTBcluster
   repo: samhorsfield96/WTBcluster
-  tags: python, snakemake, proteomics
+  tags: python, snakemake, clustering
+
+- title: ATB_tree
+  subtitle: AllTheBacteria tree construction
+  description: A set of scripts for constructing trees from millions of genomes.
+  link: https://github.com/bacpop/ATB_tree
+  repo: bacpop/ATB_tree
+  tags: python, phylogenetics
 
 - title: BacCorpusWF
   subtitle: Training data generation for Bacformer v2
   description: Scripts for generating training datasets for Bacformer v2.
   link: https://github.com/samhorsfield96/BacCorpusWF
   repo: samhorsfield96/BacCorpusWF
-  tags: python, machine learning, genomics
+  tags: python, snakemake, machine learning
+
+- title: unitig_caller
+  subtitle: Counting unitigs in a de Bruijn graph
+  description: A tool for counting unitigs in a de Bruijn graph for microbial GWAS.
+  link: https://github.com/bacpop/unitig-caller
+  repo: bacpop/unitig-caller
+  tags: c++, python, pangenomics
 
 - title: pangenome_LLM
   subtitle: Language models for pangenomics
-  description: Applying large language models to pangenome analysis.
+  description: Scripts for applying large language models to pangenome analysis.
   link: https://github.com/samhorsfield96/pangenome_LLM
   repo: samhorsfield96/pangenome_LLM
   tags: python, machine learning, pangenomics
 
-- title: NFDS-sim
-  subtitle: Negative frequency-dependent selection simulator
-  description: A Rust simulator for negative frequency-dependent selection (NFDS) dynamics.
-  link: https://github.com/samhorsfield96/NFDS-sim
-  repo: samhorsfield96/NFDS-sim
-  tags: rust, simulation, population genetics
-
-- title: ExpEvoAnalyzer
-  subtitle: Experimental evolution analysis workflow
-  description: A workflow to analyse experimental evolution data.
-  link: https://github.com/samhorsfield96/ExpEvoAnalyzer
-  repo: samhorsfield96/ExpEvoAnalyzer
-  tags: python, evolution, genomics
-
 - title: locus_cutter
-  subtitle: Target sequence removal from genomes
-  description: A tool for identifying and removing target sequences from a genome.
+  subtitle: Target sequence cutting from genomes
+  description: A tool for identifying and cutting target sequences from a genome.
   link: https://github.com/samhorsfield96/locus_cutter
   repo: samhorsfield96/locus_cutter
   tags: python, genomics
 
-- title: ggCaller_manuscript
-  subtitle: Scripts for ggCaller manuscript
-  description: Repository of scripts used in the ggCaller manuscript.
-  link: https://github.com/samhorsfield96/ggCaller_manuscript
-  repo: samhorsfield96/ggCaller_manuscript
-  tags: python, pangenomics
+- title: adaptive_sampling_scripts
+  subtitle: Scripts for adaptive sampling in nanopore sequencing
+  description: Scripts to aid in analysis of adaptive sampling experiments in nanopore sequencing.
+  link: https://github.com/bacpop/adaptive_sampling_scripts
+  repo: bacpop/adaptive_sampling_scripts
+  tags: python, nanopore, adaptive sampling
 
-- title: compare_fasta
-  subtitle: Gene caller recall and precision analysis
-  description: Scripts to analyse recall and precision of gene callers.
-  link: https://github.com/samhorsfield96/compare_fasta
-  repo: samhorsfield96/compare_fasta
-  tags: python, genomics
-
-- title: unitig_coverage
-  subtitle: Unitig coverage analysis in de Bruijn graphs
-  description: Code to enable analysis of unitig coverage in a de Bruijn graph.
-  link: https://github.com/samhorsfield96/unitig_coverage
-  repo: samhorsfield96/unitig_coverage
-  tags: c++, genomics
-
-- title: PANGWES_mapping
-  subtitle: PANGWES outlier mappings
-  description: Repository for PANGWES outlier mappings.
-  link: https://github.com/samhorsfield96/PANGWES_mapping
-  repo: samhorsfield96/PANGWES_mapping
-  tags: python, gwas, genomics
-
-- title: Celebrimbor_analysis
-  subtitle: Analysis scripts for Celebrimbor
-  description: Analysis scripts for the Celebrimbor project.
-  link: https://github.com/samhorsfield96/Celebrimbor_analysis
-  repo: samhorsfield96/Celebrimbor_analysis
-  tags: python, genomics
-
-- title: graph_benchmarking
-  subtitle: Graph-based genomics benchmarking
-  description: Benchmarking scripts for graph-based genomic analyses.
-  link: https://github.com/samhorsfield96/graph_benchmarking
-  repo: samhorsfield96/graph_benchmarking
-  tags: python, genomics
