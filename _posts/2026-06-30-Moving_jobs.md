@@ -30,5 +30,3 @@ So why did I do it? One, I always wanted to live abroad, and academia makes this
 
 </body>
 </div>
-
-[Back to all blogs](/blog)
