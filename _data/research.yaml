@@ -22,7 +22,7 @@
   description: I am part of the AllTheBacteria project, which re-assembled >2 million bacterial genomes from INSDC. I led a team to generate the largest bacterial [phylogenetic tree](https://www.taxonium.org/atb) ever constructed, and constructed a collection of ~43 billion [gene predictions and intergenic sequences](https://huggingface.co/AllTheBacteria) for deep-learning model training 
   repo: 
   tags:
-- title: ALLCAPS, transformer-based pneumococcal serotyping
+- title: ALLCAPS - transformer-based pneumococcal serotyping
   subtitle:
   group: featured
   image: images/photo.jpg
