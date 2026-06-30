@@ -2,7 +2,7 @@
 title: Same person, different job and place
 author: Sam Horsfield
 date: 2026-06-30
-tags: travel, biology
+tags: travel
 ---
 
 After never spending more than one month away from the UK, I recently upped sticks and swapped the rolling hills of Albion for the severe and beautiful mountains and lakes of Switzerland.
