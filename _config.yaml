@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: Dr. Samuel T. Horsfield
+title: Dr. Samuel T. Horsfield PhD
 subtitle: SNSF Postdoctoral Fellow
 description: I am a postdoctoral researcher in the Laboratory of Evolutionary Genetics at the University of Neuchâtel, Switzerland. I develop bioinformatics tools and models to study the evolutionary forces shaping the pangenomes of prokaryotes and eukaryotes.
-header: images/DNA_background2.jpg
-footer: images/DNA_background1.jpg
+header: images/site/DNA_background2.jpg
+footer: images/site/DNA_background1.jpg
 proofer: false
 
 # site social media and other links

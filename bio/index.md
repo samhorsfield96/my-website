@@ -10,7 +10,7 @@ nav:
 # Biography
 
 {% capture profile_img %}
-<img src="{{ '/images/profile_pic_2.jpeg' | relative_url }}" alt="Profile picture">
+<img src="{{ '/images/site/profile_pic_2.jpeg' | relative_url }}" alt="Profile picture">
 {% endcapture %}
 
 {% include float.html content=profile_img flip=true %}
