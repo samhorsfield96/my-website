@@ -28,7 +28,7 @@ My research focus is development of bioinformatics tools to study pangenome dive
 
 {%
   include feature.html
-  image="images/ggCaller_logo_new.png"
+  image="images/research_thumbnail.png"
   link="publications"
   title="My Research"
   text=text
@@ -51,7 +51,7 @@ My research interests revolve around studying pangenome diversity and evolution 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects_thumbnail.png"
   link="projects"
   title="My Projects"
   flip=true
@@ -76,7 +76,7 @@ I've written a number of tools that might be helpful for your bioinformatics ana
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ggCaller_logo_new.png"
   link="tools"
   title="My tools"
   text=text
