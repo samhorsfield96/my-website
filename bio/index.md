@@ -11,7 +11,7 @@ nav:
 
 {%
   include float.html
-  content="![Profile picture](/images/profile_pic.jpeg)"
+  content="![Profile picture](/images/profile_pic_2.jpeg)"
   flip=true
 %}
 
