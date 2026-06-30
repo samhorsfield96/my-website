@@ -23,8 +23,9 @@ So why did I do it? One, I always wanted to live abroad, and academia makes this
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
-<a href="/images/blog/2026-06-30_blog.jpeg" data-fancybox="gallery" data-caption="Out on a lakeside bike ride">
-	<img src="/images/blog/2026-06-30_blog.jpeg" alt="" /></a>
+<a href="{{ '/images/blog/2026-06-30_blog.jpeg' | relative_url }}" data-fancybox="gallery" data-caption="Out on a lakeside bike ride">
+  <img src="{{ '/images/blog/2026-06-30_blog.jpeg' | relative_url }}" alt="">
+</a>
 
 
 </body>

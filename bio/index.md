@@ -9,11 +9,11 @@ nav:
 
 # Biography
 
-{%
-  include float.html
-  content="![Profile picture](/images/profile_pic_2.jpeg)"
-  flip=true
-%}
+{% capture profile_img %}
+<img src="{{ '/images/profile_pic_2.jpeg' | relative_url }}" alt="Profile picture">
+{% endcapture %}
+
+{% include float.html content=profile_img flip=true %}
 
 I am a postdoctoral researcher, specialising in computational pangenomic analysis. I graduated from the University of Birmingham in 2018 with an MSci in Biochemistry, before working for Illumina UK, where I developed reagents for high-throughput sequencing platforms. I then completed an MSc in Biomedical sciences at Imperial College London, staying to pursue a PhD in bacterial genomics, during which I developed tools for analysing pangenomes of bacterial pathogens. I graduated from my PhD in 2023 and joined the Lees group at EMBL's European Bioinformatics Institute (EMBL-EBI) as a postdoctoral fellow, where I developed likelihood-free and deep-learning approaches for epidemiological analysis of bacterial species. I joined the Croll group in 2026, where my research is focused on development of rapid pangenome-based tools to identify diversifying regions in fungal genomes, which are drivers of adaptation to a pathogenic lifestyle.
 
