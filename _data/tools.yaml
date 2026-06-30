@@ -5,6 +5,7 @@
   repo: bacpop/ggCaller
   tags: c++, python, pangenomics
   group: featured
+  image: images/ggCaller_logo_new.png
 
 - title: ggCallaroo
   subtitle: ggCaller + Panaroo + Bakta pipeline
@@ -14,13 +15,14 @@
   tags: python, snakemake, pangenomics
   group: featured
 
-- title: panBART
+- title: PanBART
   subtitle: Long-context encoder-decoder for pangenomes
   description: A long-context encoder-decoder package for pangenomes.
   link: https://github.com/samhorsfield96/panBART
   repo: samhorsfield96/panBART
   tags: python, machine learning, pangenomics
   group: featured
+  image: images/panBART_new.png
 
 - title: PansimNuc
   subtitle: Nucleotide-level pangenome simulator
@@ -29,6 +31,7 @@
   repo: samhorsfield96/PansimNuc
   tags: rust, simulation, pangenomics
   group: featured
+  image: images/PansimNuc_new.png
 
 - title: PopPUNK-mod
   subtitle: Fitting models of pangenome evolution in bacteria
@@ -37,6 +40,7 @@
   repo: samhorsfield96/PopPUNK-mod
   tags: python, pangenomics, modelling, simulation
   group: featured
+  image: images/PopPUNK-mod_new.png
 
 - title: Pansim
   subtitle: Bacterial pangenome simulator
@@ -45,6 +49,7 @@
   repo: bacpop/Pansim
   tags: rust, simulation, pangenomics
   group: featured
+  image: images/Pansim_new.png
 
 - title: CELEBRIMBOR
   subtitle: Pangenomes from metagenomes
@@ -53,6 +58,7 @@
   repo: bacpop/CELEBRIMBOR
   tags: snakemake, pangenomics, metagenomics
   group: featured
+  image: images/CELEBRIMBOR_new.png
 
 - title: GNASTy
   subtitle: Graph-based Nanopore Adaptive Sampling Typing
@@ -61,6 +67,7 @@
   repo: bacpop/readfish
   tags: python, nanopore, adaptive sampling
   group: featured
+  image: images/GNASTy_new.png
 
 - title: ExpEvoAnalyzer
   subtitle: Experimental evolution analysis workflow
