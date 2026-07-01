@@ -13,28 +13,28 @@ Drop me an email/message if you want to chat science! If you have a question/pro
   include button.html
   type="email"
   text="Email"
-  link="mailto:samuel.horsfield@unine.ch"
+  link="samuel.horsfield@unine.ch"
 %}
 
 {%
   include button.html
   type="linkedin"
   text="LinkedIn"
-  link="https://www.linkedin.com/in/samuel-horsfield-280754101"
+  link="samuel-horsfield-280754101"
 %}
 
 {%
   include button.html
   type="bluesky"
   text="Bluesky"
-  link="https://bsky.app/profile/samuelhorsfield.bsky.social"
+  link="samuelhorsfield.bsky.social"
 %}
 
 {%
   include button.html
   type="github"
   text="GitHub"
-  link="https://github.com/samhorsfield96"
+  link="samhorsfield96"
 %}
 
 <div class="layout-blog" markdown="1">
