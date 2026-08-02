@@ -1,3 +1,8 @@
 - id: doi:10.6019/TOL.pangenome-graphs-w.2025.00001.1
   authors:
   - Samuel T. Horsfield
+- id: doi:10.1101/2025.03.18.643841
+  title: Pore-C sequencing identifies episome-driven chromosome conformation perturbations differentiating pneumococcal epigenetic variants
+  publisher: PLOS Pathogens
+  date: '2025-08-14'
+  link: https://doi.org/10.1371/journal.ppat.1013392
