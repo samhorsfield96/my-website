@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-My current research is focused on identifying the evolutionary mechanisms that underpin fungal species adaptation. This includes modelling nucleotide-level evolution of fungal species, and developing novel deep-learning methods to identify diversifying regions in fungal pangenomes. I also have some ongoing collaborations on bacterial genomics projects.
+My current research focuses on identifying the evolutionary mechanisms that underpin fungal species adaptation. This includes modelling nucleotide-level evolution of fungal species, and developing novel deep-learning methods to identify diversifying regions in fungal pangenomes. I also have some ongoing collaborations on bacterial genomics projects.
 
 {% include search-info.html %}
 
