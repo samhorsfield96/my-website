@@ -68,6 +68,26 @@
   orcid: 0000-0002-3859-4073
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1371/journal.pntd.0013211
+  title: Determining genotype and antimicrobial resistance of Salmonella Typhi in
+    environmental samples by amplicon sequencing
+  authors:
+  - Catherine Troman
+  - Samuel T. Horsfield
+  - Dilip Abraham
+  - Venkata Raghava Mohan
+  - Sidhartha Giri
+  - Satheesh Nair
+  - Alexander G. Shaw
+  - Zoe Dyson
+  - Kathryn E. Holt
+  - Nicholas C. Grassly
+  publisher: PLOS Neglected Tropical Diseases
+  date: '2025-07-08'
+  link: https://doi.org/hb9j8n
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/gr.279435.124
   title: Optimizing nanopore adaptive sampling for pneumococcal serotype surveillance
     in complex samples using the graph-based GNASTy algorithm
@@ -157,6 +177,61 @@
   publisher: Genome Research
   date: '2024-07-01'
   link: https://doi.org/hb8vk2
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.03.08.584059
+  title: 'AllTheBacteria: a community resource empowers biology and discovers novel
+    peptide antibiotics'
+  authors:
+  - Martin Hunt
+  - Marcelo D. T. Torres
+  - Nabil-Fareed Alikhan
+  - Daniel Anderson
+  - Maria Luiza Andreani
+  - Josefin Blom
+  - George Bouras
+  - Fiona S.L. Brinkman
+  - Laura M. Carroll
+  - Matthew A. Croxen
+  - R. Andres Floto
+  - Michael B. Hall
+  - Jane Hawkey
+  - Samuel T. Horsfield
+  - Baofeng Jia
+  - Jake A Lacey
+  - Hyun-Su Lee
+  - Leandro Lima
+  - Neil MacAlasdair
+  - Sudaraka Mallawaarachchi
+  - William Matlock
+  - Ahmed M. Moustafa
+  - Robert Petit
+  - Vignesh Ramnath
+  - Vishnu Raghuram
+  - Matthew J. Russell
+  - Theo Sanderson
+  - Timo Saratto
+  - Oliver Schwengers
+  - Torsten Seemann
+  - Liam P. Shaw
+  - Wei Shen
+  - Nicholas Thomson
+  - Gerry Tonkin-Hill
+  - Jackie Toussaint
+  - Thanh Le Viet
+  - Johanna von Wachsmann
+  - Fangping Wan
+  - Aaron Weimann
+  - Rachel M. Wheatley
+  - Maciej Wiatrak
+  - Ouli Xie
+  - Cesar de la Fuente-Nunez
+  - John A. Lees
+  - Zamin Iqbal
+  publisher: openRxiv
+  date: '2024-03-11'
+  link: https://doi.org/p9g3
   orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
