@@ -73,6 +73,25 @@
   orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2025.03.23.644600
+  title: Selection-free CRISPR-Cas9 editing protocol for distant Dictyostelid species
+  authors:
+  - Mireia Garriga-Canut
+  - Nikki Cannon
+  - Matthew Benton
+  - Andrea Zanon
+  - Samuel T Horsfield
+  - Jacob Scheurich
+  - Kim Remans
+  - John Lees
+  - Alexandre Paix
+  - Jordi van Gestel
+  publisher: openRxiv
+  date: '2025-03-25'
+  link: https://doi.org/hb8vks
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2025.12.30.695181
   title: Rapid and consistent clustering of millions of genomes highlights the diversity
     of prokaryotic life
@@ -122,6 +141,22 @@
   orcid: 0000-0002-3859-4073
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1371/journal.ppat.1013392
+  title: Pore-C sequencing identifies episome-driven chromosome conformation perturbations
+    differentiating pneumococcal epigenetic variants
+  authors:
+  - Tze Yee Lim
+  - Samuel T. Horsfield
+  - Catherine M. Troman
+  - Stephen D. Bentley
+  - Min Jung Kwun
+  - Nicholas J. Croucher
+  publisher: PLOS Pathogens
+  date: '2025-08-14'
+  link: https://doi.org/hb8vkq
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pntd.0013211
   title: Determining genotype and antimicrobial resistance of Salmonella Typhi in
     environmental samples by amplicon sequencing
@@ -181,22 +216,6 @@
   orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.03.18.643841
-  title: Pore-C sequencing identifies episome-driven chromosome conformation perturbations
-    differentiating pneumococcal epigenetic variants
-  authors:
-  - Tze Yee Lim
-  - Samuel T. Horsfield
-  - Catherine M. Troman
-  - Stephen D. Bentley
-  - Min Jung Kwun
-  - Nicholas J. Croucher
-  publisher: PLOS Pathogens
-  date: '2025-08-14'
-  link: https://doi.org/10.1371/journal.ppat.1013392
-  orcid: 0000-0002-3859-4073
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1101/2024.11.13.623402
   title: 'A Comparison of Nanopore Data Types, Basecalling, and Assembly Algorithms:
     Whole Plant Genome Assembly and Methylation Analysis from a Single MinION Flow
@@ -312,46 +331,7 @@
   orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2024.02.11.579857
-  title: Graph-based Nanopore Adaptive Sampling with GNASTy enables sensitive pneumococcal
-    serotyping in complex samples
-  authors:
-  - Samuel T. Horsfield
-  - Basil Fok
-  - Yuhan Fu
-  - Paul Turner
-  - John A. Lees
-  - Nicholas J. Croucher
-  publisher: openRxiv
-  date: '2024-02-12'
-  link: https://doi.org/hb8vk4
-  orcid: 0000-0002-3859-4073
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.09.07.556769
-  title: 'PAN-GWES: Pangenome-spanning epistasis and co-selection analysis via de
-    Bruijn graphs'
-  authors:
-  - Juri Kuronen
-  - Samuel Horsfield
-  - "Anna K. P\xF6ntinen"
-  - Sergio Arredondo-Alonso
-  - Harry Thorpe
-  - Rebecca Gladstone
-  - Rob J.L. Willems
-  - Stephen D. Bentley
-  - Nicholas J Croucher
-  - Johan Pensar
-  - John A. Lees
-  - Gerry Tonkin-Hill
-  - Jukka Corander
-  publisher: openRxiv
-  date: '2023-09-08'
-  link: https://doi.org/gspr34
-  orcid: 0000-0002-3859-4073
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.24.524926
+- id: doi:10.1101/gr.277733.123
   title: Accurate and fast graph-based pangenome annotation and clustering with ggCaller
   authors:
   - Samuel T. Horsfield
@@ -360,10 +340,10 @@
   - John A. Lees
   publisher: Genome Research
   date: '2023-08-24'
-  link: https://genome.cshlp.org/content/33/9/1622
+  link: https://doi.org/gsp9t4
   orcid: 0000-0002-3859-4073
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13059-021-02582-x
   title: 'Nanopore adaptive sampling: a tool for enrichment of low abundance species
     in metagenomic samples'
@@ -428,3 +408,30 @@
   orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2025.03.18.643841
+  title: Pore-C sequencing identifies episome-driven chromosome conformation perturbations
+    differentiating pneumococcal epigenetic variants
+  authors:
+  - Tze Yee Lim
+  - Samuel T. Horsfield
+  - Catherine M. Troman
+  - Stephen D. Bentley
+  - Min Jung Kwun
+  - Nicholas J. Croucher
+  publisher: PLOS Pathogens
+  date: '2025-08-14'
+  link: https://doi.org/10.1371/journal.ppat.1013392
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.01.24.524926
+  title: Accurate and fast graph-based pangenome annotation and clustering with ggCaller
+  authors:
+  - Samuel T. Horsfield
+  - Gerry Tonkin-Hill
+  - Nicholas J. Croucher
+  - John A. Lees
+  publisher: Genome Research
+  date: '2023-08-24'
+  link: https://genome.cshlp.org/content/33/9/1622
+  plugin: sources.py
+  file: sources.yaml
