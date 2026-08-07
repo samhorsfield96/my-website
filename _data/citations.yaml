@@ -74,7 +74,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2025.03.23.644600
-  title: Selection-free CRISPR-Cas9 editing protocol for distant Dictyostelid species
+  title: Unlocking CRISPR-Cas9 editing for widely diverse Dictyostelid species
   authors:
   - Mireia Garriga-Canut
   - Nikki Cannon
@@ -86,12 +86,12 @@
   - John Lees
   - Alexandre Paix
   - Jordi van Gestel
-  publisher: openRxiv
-  date: '2025-03-25'
-  link: https://doi.org/hb8vks
+  publisher: Molecular Systems Biology
+  date: '2026-01-12'
+  link: https://link.springer.com/article/10.1038/s44320-025-00180-8
   orcid: 0000-0002-3859-4073
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.64898/2025.12.30.695181
   title: Rapid and consistent clustering of millions of genomes highlights the diversity
     of prokaryotic life
@@ -408,30 +408,3 @@
   orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.03.18.643841
-  title: Pore-C sequencing identifies episome-driven chromosome conformation perturbations
-    differentiating pneumococcal epigenetic variants
-  authors:
-  - Tze Yee Lim
-  - Samuel T. Horsfield
-  - Catherine M. Troman
-  - Stephen D. Bentley
-  - Min Jung Kwun
-  - Nicholas J. Croucher
-  publisher: PLOS Pathogens
-  date: '2025-08-14'
-  link: https://doi.org/10.1371/journal.ppat.1013392
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2023.01.24.524926
-  title: Accurate and fast graph-based pangenome annotation and clustering with ggCaller
-  authors:
-  - Samuel T. Horsfield
-  - Gerry Tonkin-Hill
-  - Nicholas J. Croucher
-  - John A. Lees
-  publisher: Genome Research
-  date: '2023-08-24'
-  link: https://genome.cshlp.org/content/33/9/1622
-  plugin: sources.py
-  file: sources.yaml
