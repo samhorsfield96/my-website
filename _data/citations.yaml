@@ -73,12 +73,12 @@
   orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.03.23.644600
+- id: doi:10.1038/s44320-025-00180-8
   title: Unlocking CRISPR-Cas9 editing for widely diverse Dictyostelid species
   authors:
   - Mireia Garriga-Canut
   - Nikki Cannon
-  - Matthew Benton
+  - Matt Benton
   - Andrea Zanon
   - Samuel T Horsfield
   - Jacob Scheurich
@@ -88,10 +88,10 @@
   - Jordi van Gestel
   publisher: Molecular Systems Biology
   date: '2026-01-12'
-  link: https://link.springer.com/article/10.1038/s44320-025-00180-8
+  link: https://doi.org/hcd7xw
   orcid: 0000-0002-3859-4073
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2025.12.30.695181
   title: Rapid and consistent clustering of millions of genomes highlights the diversity
     of prokaryotic life
@@ -157,6 +157,28 @@
   orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2025.07.20.665723
+  title: A contextualised protein language model reveals the functional syntax of
+    bacterial evolution
+  authors:
+  - Maciej Wiatrak
+  - David C. Abelson
+  - Roman Mikhaylenko
+  - "Ramon Vi\xF1as Torn\xE9"
+  - Maria Ntemourtsidou
+  - Adam Dinan
+  - Divya Arora
+  - Samuel T. Horsfield
+  - John Lees
+  - "Maria Brbi\u0107"
+  - Aaron Weimann
+  - R. Andres Floto
+  publisher: openRxiv
+  date: '2025-07-20'
+  link: https://doi.org/hcgk9s
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pntd.0013211
   title: Determining genotype and antimicrobial resistance of Salmonella Typhi in
     environmental samples by amplicon sequencing
@@ -216,6 +238,25 @@
   orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2025.03.23.644600
+  title: Unlocking CRISPR-Cas9 editing for widely diverse Dictyostelid species
+  authors:
+  - Mireia Garriga-Canut
+  - Nikki Cannon
+  - Matthew Benton
+  - Andrea Zanon
+  - Samuel T Horsfield
+  - Jacob Scheurich
+  - Kim Remans
+  - John Lees
+  - Alexandre Paix
+  - Jordi van Gestel
+  publisher: Molecular Systems Biology
+  date: '2026-01-12'
+  link: https://link.springer.com/article/10.1038/s44320-025-00180-8
+  orcid: 0000-0002-3859-4073
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2024.11.13.623402
   title: 'A Comparison of Nanopore Data Types, Basecalling, and Assembly Algorithms:
     Whole Plant Genome Assembly and Methylation Analysis from a Single MinION Flow
