@@ -70,6 +70,15 @@
   group: featured
   image: images/site/GNASTy_new.png
 
+- title: ALLCAPS
+  subtitle: A deep-learning method for pneumoccocal serotyping
+  description: A rapid method for serotyping S. pneumoniae, enabling highly accurate classification and identification of novel non-typeables.
+  link: https://github.com/bacpop/ALLCAPS
+  repo: bacpop/ALLCAPS
+  tags: python, machine learning
+  group: featured
+  image: images/site/ALLCAPS.jpg
+
 - title: ExpEvoAnalyzer
   subtitle: Experimental evolution analysis workflow
   description: A workflow to analyse experimental evolution data using read alignment, variant calling and annotation.
