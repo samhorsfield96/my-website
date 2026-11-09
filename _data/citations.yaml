@@ -1,18 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.64898/2026.10.14.759107
-  title: 'ALLCAPS: a scalable and accurate deep-learning method for in silico pneumococcal
-    serotyping'
+  title: "ALLCAPS: a scalable and accurate deep-learning method for\n            \
+    \      <i>in silico</i>\n                  pneumococcal serotyping"
   authors:
   - Alireza Tajmirriahi
   - Teodora Mateeva
-  - Matthew J Russell
+  - Matthew J. Russell
   - Oliver Lorenz
-  - Soo Jeong Kim
-  - Stephanie W Lo
-  - Stephen D Bentley
-  - John A Lees
-  - Samuel T Horsfield
+  - Soo-Jeong Kim
+  - Stephanie W. Lo
+  - Stephen D. Bentley
+  - John A. Lees
+  - Samuel T. Horsfield
   publisher: openRxiv
   date: '2026-10-20'
   link: https://doi.org/hcpd8k
