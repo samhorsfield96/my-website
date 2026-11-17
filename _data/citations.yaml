@@ -168,13 +168,13 @@
 - id: doi:10.6019/TOL.pangenome-graphs-w.2025.00001.1
   title: Evolution of the accessory genome
   authors:
-  - Samuel T. Horsfield
+  - Samuelk Horsfield
   publisher: EMBL-EBI
   date: '2025-11-05'
   link: https://doi.org/hb8vkp
   orcid: 0000-0002-3859-4073
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.ppat.1013392
   title: Pore-C sequencing identifies episome-driven chromosome conformation perturbations
     differentiating pneumococcal epigenetic variants
@@ -273,7 +273,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2025.03.23.644600
-  title: Unlocking CRISPR-Cas9 editing for widely diverse Dictyostelid species
+  title: Selection-free CRISPR-Cas9 editing protocol for distant Dictyostelid species
   authors:
   - Mireia Garriga-Canut
   - Nikki Cannon
@@ -285,12 +285,12 @@
   - John Lees
   - Alexandre Paix
   - Jordi van Gestel
-  publisher: Molecular Systems Biology
-  date: '2026-01-12'
-  link: https://link.springer.com/article/10.1038/s44320-025-00180-8
+  publisher: openRxiv
+  date: '2025-03-25'
+  link: https://doi.org/hb8vks
   orcid: 0000-0002-3859-4073
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.11.13.623402
   title: 'A Comparison of Nanopore Data Types, Basecalling, and Assembly Algorithms:
     Whole Plant Genome Assembly and Methylation Analysis from a Single MinION Flow
