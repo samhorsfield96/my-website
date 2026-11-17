@@ -1,18 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.64898/2026.10.14.759107
-  title: 'ALLCAPS: a scalable and accurate deep-learning method for in silico pneumococcal
-    serotyping'
+  title: "ALLCAPS: a scalable and accurate deep-learning method for\n            \
+    \      <i>in silico</i>\n                  pneumococcal serotyping"
   authors:
   - Alireza Tajmirriahi
   - Teodora Mateeva
-  - Matthew J Russell
+  - Matthew J. Russell
   - Oliver Lorenz
-  - Soo Jeong Kim
-  - Stephanie W Lo
-  - Stephen D Bentley
-  - John A Lees
-  - Samuel T Horsfield
+  - Soo-Jeong Kim
+  - Stephanie W. Lo
+  - Stephen D. Bentley
+  - John A. Lees
+  - Samuel T. Horsfield
   publisher: openRxiv
   date: '2026-10-20'
   link: https://doi.org/hcpd8k
@@ -292,16 +292,16 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2024.11.13.623402
-  title: 'A Comparison of Nanopore Data Types, Basecalling, and Assembly Algorithms:
-    Whole Plant Genome Assembly and Methylation Analysis from a Single MinION Flow
-    cell'
+  title: "Nanopore-only assembly and methylation profiling of\n                  <i>Arabidopsis\
+    \ thaliana</i>\n                  across chemistries, basecalling models and assembly\
+    \ workflows"
   authors:
   - Samuel Martin
+  - Ned Peel
   - Darren Heavens
   - Yuxuan Lan
-  - Ned Peel
   - Naomi Irish
-  - Samuel Horsfield
+  - Samuel T. Horsfield
   - Michael Giolai
   - Matthew D. Clark
   - Richard M. Leggett
